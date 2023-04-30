@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../styles/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/bootstrap-icons.css">
+</head>
+<body class="bg-light">
+    <!-- Navigation bar -->
+    <nav class="navbar navbar-expand-lg bg-primary">
+        <div class="container">
+            <a href="../index.html" class="navbar-brand d-flex flex-row align-items-center" aria-label="Logo Website">
+                <img class="me-4" src="../src/logo/Logo Hima.png" alt="" srcset="">
+                <h6 class="h5 text-light">Hima Humas Unpad</h6>
+            </a>
+
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a href="#" class="nav-link text-light me-3 h6">CALON KETUA</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link text-light me-3 h6">TATA CARA</a>
+                </li>
+                <li class="nav-item">
+                    <a href="html/login.html" class="btn btn-outline-light h6">LOGIN</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Error Section -->
+    <main class="container d-flex justify-content-center align-items-center" style="height:93vh;">
+        <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center">
+            <i class="bi bi-exclamation-circle color-error" style="font-size:128px;"></i>
+            <h2 class="h2 color-error text-center mb-3">Oh Tidak!</h2>
+            <h4 class="h4-regular text-center mb-3">Telah terjadi suatu kesalahan! Jika menurut Anda ini <br> merupakan kesalahan sistem, tolong hubungi panitia.</h4>
+            <p class="p-caption mb-5">ERROR_ID : 404 - Page Not Found</p>
+            <a href="../index.html" class="btn btn-secondary col-lg-4 py-2">Ke Halaman Utama</a>
+        </div>
+    </main>
+</body>
+</html>

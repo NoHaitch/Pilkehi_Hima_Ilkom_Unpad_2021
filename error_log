@@ -1,0 +1,251 @@
+[21-Nov-2021 21:54:25 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/himahuma/pemray.himahumas.xyz/kirimdata.php on line 3
+[21-Nov-2021 21:54:25 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 21:54:28 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 21:54:28 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 21:54:32 Asia/Jakarta] PHP Notice:  Undefined index: pilihan in /home/himahuma/pemray.himahumas.xyz/kirimdata.php on line 7
+[21-Nov-2021 21:54:32 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 21:54:36 Asia/Jakarta] PHP Notice:  Undefined index: pilihan in /home/himahuma/pemray.himahumas.xyz/kirimdata.php on line 7
+[21-Nov-2021 21:54:37 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 21:54:38 Asia/Jakarta] PHP Notice:  Undefined index: pilihan in /home/himahuma/pemray.himahumas.xyz/kirimdata.php on line 7
+[21-Nov-2021 21:54:38 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 21:55:56 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 21:58:15 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:00:46 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:00:48 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:00:48 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:01:11 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:01:15 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:01:15 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:01:38 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:02:13 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:02:13 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:02:40 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/himahuma/pemray.himahumas.xyz/vote.php on line 3
+[21-Nov-2021 22:02:40 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:02:50 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/himahuma/pemray.himahumas.xyz/success.php on line 3
+[21-Nov-2021 22:02:50 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:02:58 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:03:03 Asia/Jakarta] PHP Notice:  Undefined index: panitia in /home/himahuma/pemray.himahumas.xyz/tabeldata.php on line 3
+[21-Nov-2021 22:03:04 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:03:41 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:06:57 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:07:00 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:07:00 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/himahuma/pemray.himahumas.xyz/vote.php:46) in /home/himahuma/pemray.himahumas.xyz/vote.php on line 359
+[21-Nov-2021 22:07:01 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/himahuma/pemray.himahumas.xyz/vote.php on line 3
+[21-Nov-2021 22:07:01 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:07:05 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:07:10 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:07:12 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:07:12 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:07:19 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:07:19 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:07:20 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:07:21 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:07:22 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:07:22 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/himahuma/pemray.himahumas.xyz/vote.php:46) in /home/himahuma/pemray.himahumas.xyz/vote.php on line 359
+[21-Nov-2021 22:07:47 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:07:48 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:08:07 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/himahuma/pemray.himahumas.xyz/vote.php on line 3
+[21-Nov-2021 22:08:07 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:08:11 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:08:11 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:08:13 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:08:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/himahuma/pemray.himahumas.xyz/vote.php:46) in /home/himahuma/pemray.himahumas.xyz/vote.php on line 359
+[21-Nov-2021 22:08:14 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/himahuma/pemray.himahumas.xyz/vote.php on line 3
+[21-Nov-2021 22:08:14 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:08:17 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:08:17 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:08:22 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/himahuma/pemray.himahumas.xyz/vote.php on line 3
+[21-Nov-2021 22:08:22 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:08:26 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:08:48 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:08:53 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:08:53 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:08:56 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:08:56 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:09:00 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:09:06 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:09:06 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[21-Nov-2021 22:09:11 Asia/Jakarta] PHP Notice:  Undefined index: panitia in /home/himahuma/pemray.himahumas.xyz/tabeldata.php on line 3
+[21-Nov-2021 22:09:11 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:09:16 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:11:06 Asia/Jakarta] PHP Notice:  Undefined index: panitia in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 3
+[21-Nov-2021 22:11:06 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[21-Nov-2021 22:11:06 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:11:09 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[21-Nov-2021 22:11:21 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[21-Nov-2021 22:11:39 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[21-Nov-2021 22:12:26 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[21-Nov-2021 22:16:39 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[21-Nov-2021 22:20:53 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:20:55 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:20:57 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:20:58 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 22:21:40 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[21-Nov-2021 22:26:41 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[21-Nov-2021 23:25:23 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[21-Nov-2021 23:35:31 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 01:09:32 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 02:22:30 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 02:22:52 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 02:22:52 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 02:22:54 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/himahuma/pemray.himahumas.xyz/vote.php on line 3
+[22-Nov-2021 02:22:56 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 02:22:59 Asia/Jakarta] PHP Notice:  Undefined index: pilihan in /home/himahuma/pemray.himahumas.xyz/kirimdata.php on line 7
+[22-Nov-2021 02:22:59 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 05:12:46 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 05:12:48 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 05:19:01 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 05:19:09 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 05:19:09 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 05:19:23 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/himahuma/pemray.himahumas.xyz/kirimdata.php on line 3
+[22-Nov-2021 05:19:24 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 05:19:27 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 05:19:36 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 05:50:29 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 05:51:00 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 05:51:10 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 05:51:11 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 05:51:13 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/himahuma/pemray.himahumas.xyz/vote.php on line 3
+[22-Nov-2021 05:51:14 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 05:51:50 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/himahuma/pemray.himahumas.xyz/vote.php on line 3
+[22-Nov-2021 05:51:52 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 07:17:29 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 07:17:39 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 07:17:39 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 07:17:46 Asia/Jakarta] PHP Notice:  Undefined index: pilihan in /home/himahuma/pemray.himahumas.xyz/kirimdata.php on line 7
+[22-Nov-2021 07:17:46 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 07:17:50 Asia/Jakarta] PHP Notice:  Undefined index: pilihan in /home/himahuma/pemray.himahumas.xyz/kirimdata.php on line 7
+[22-Nov-2021 07:17:50 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 07:55:01 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 07:57:06 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 08:07:46 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 08:08:01 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 08:08:01 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 08:08:21 Asia/Jakarta] PHP Notice:  Undefined index: pilihan in /home/himahuma/pemray.himahumas.xyz/kirimdata.php on line 7
+[22-Nov-2021 08:08:21 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 08:24:22 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[22-Nov-2021 08:26:05 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 08:26:14 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 08:28:57 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 08:32:32 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 08:34:01 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 08:34:31 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 08:40:04 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 08:50:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[22-Nov-2021 08:55:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[22-Nov-2021 09:00:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[22-Nov-2021 09:01:05 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[22-Nov-2021 09:01:07 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[22-Nov-2021 09:13:25 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:14:17 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:14:17 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 09:14:51 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/himahuma/pemray.himahumas.xyz/kirimdata.php on line 3
+[22-Nov-2021 09:14:52 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:16:14 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:16:29 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:17:04 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:19:15 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:20:03 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:20:11 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:20:58 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:21:08 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:21:13 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:21:52 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:22:18 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:24:50 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[22-Nov-2021 09:25:49 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:25:49 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 09:41:00 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:44:25 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:45:09 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 09:45:12 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:45:48 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:45:49 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:46:01 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:46:51 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[22-Nov-2021 09:48:06 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:48:06 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 09:48:41 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/himahuma/pemray.himahumas.xyz/vote.php on line 3
+[22-Nov-2021 09:48:41 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:49:06 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 09:49:06 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 09:52:51 Asia/Jakarta] PHP Notice:  Undefined index: pilihan in /home/himahuma/pemray.himahumas.xyz/kirimdata.php on line 7
+[22-Nov-2021 09:52:51 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 09:52:56 Asia/Jakarta] PHP Notice:  Undefined index: pilihan in /home/himahuma/pemray.himahumas.xyz/kirimdata.php on line 7
+[22-Nov-2021 09:52:56 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 10:05:55 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 10:11:58 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[22-Nov-2021 10:15:21 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 10:15:53 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 10:16:27 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 10:16:43 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 10:18:37 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 10:18:59 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 10:19:39 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 10:20:23 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 10:20:24 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 10:20:29 Asia/Jakarta] PHP Notice:  Undefined index: pilihan in /home/himahuma/pemray.himahumas.xyz/kirimdata.php on line 7
+[22-Nov-2021 10:20:29 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 10:21:42 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 10:21:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[22-Nov-2021 10:22:47 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 10:23:37 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 10:23:37 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 10:24:38 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 10:57:34 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[22-Nov-2021 11:03:32 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 11:03:49 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 11:04:13 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 11:34:43 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[22-Nov-2021 11:41:55 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[22-Nov-2021 11:51:36 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 11:54:14 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 11:54:15 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 11:54:16 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 12:02:09 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:35:22 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:35:40 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:35:56 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:40:13 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:40:16 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:40:35 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:42:27 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:42:46 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:42:48 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/himahuma/pemray.himahumas.xyz/hasil.php on line 8
+[22-Nov-2021 12:43:06 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:43:16 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:43:59 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:44:17 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:44:21 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:45:02 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:45:17 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:45:29 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:45:58 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:47:56 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:48:06 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:48:57 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:50:43 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:52:16 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 182
+[22-Nov-2021 12:56:44 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 183
+[22-Nov-2021 12:57:27 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 183
+[22-Nov-2021 12:57:53 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 183
+[22-Nov-2021 12:58:02 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 183
+[22-Nov-2021 12:58:02 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 12:58:17 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 183
+[22-Nov-2021 12:58:21 Asia/Jakarta] PHP Notice:  Undefined index: pilihan in /home/himahuma/pemray.himahumas.xyz/kirimdata.php on line 7
+[22-Nov-2021 12:58:21 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 12:58:37 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 183
+[22-Nov-2021 12:58:37 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 12:58:44 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 183
+[22-Nov-2021 12:58:55 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 183
+[22-Nov-2021 12:59:04 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 183
+[22-Nov-2021 12:59:38 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 183
+[22-Nov-2021 12:59:46 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 183
+[22-Nov-2021 12:59:48 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 12:59:57 Asia/Jakarta] PHP Notice:  Undefined index: pilihan in /home/himahuma/pemray.himahumas.xyz/kirimdata.php on line 7
+[22-Nov-2021 12:59:57 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
+[22-Nov-2021 12:59:58 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 183
+[22-Nov-2021 13:00:42 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 183
+[22-Nov-2021 13:01:17 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 183
+[22-Nov-2021 13:01:37 Asia/Jakarta] PHP Notice:  Undefined index: PHP)SELF in /home/himahuma/pemray.himahumas.xyz/login.php on line 183
+[22-Nov-2021 13:01:38 Asia/Jakarta] PHP Notice:  Undefined index: sukses in /home/himahuma/pemray.himahumas.xyz/vote.php on line 7
