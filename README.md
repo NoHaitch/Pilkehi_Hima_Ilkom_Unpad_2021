@@ -18,3 +18,7 @@ Developer - Back End
 2. This time the backend was a bigger system than last experience
 3. Bought server hosting(domainesia) and domain himahumas.xyz 
 4. Experience how to manage server hosting 
+
+
+Untuk design Figma tahap awal ada di:
+https://www.figma.com/file/YXNH2FMNOZHYpYalorRE3F/Project-Web-Pemilihan?type=design&node-id=6%3A2&t=OnXmGkdE52FFGZcE-1
