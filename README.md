@@ -22,3 +22,8 @@ Developer - Back End
 
 Untuk design Figma tahap awal ada di:
 https://www.figma.com/file/YXNH2FMNOZHYpYalorRE3F/Project-Web-Pemilihan?type=design&node-id=6%3A2&t=OnXmGkdE52FFGZcE-1
+
+NOTES :
+   File isn't organize because the original I'have lost
+   So much more that can be improved on the backend part as I myself is still learning
+   Web hosting service used was : https://www.domainesia.com/ 
