@@ -7,6 +7,9 @@ Made by:
 
 Project was finished in **December 2021**  
 
+## Final design  
+https://www.figma.com/file/YXNH2FMNOZHYpYalorRE3F/Project-Web-Pemilihan?type=design&node-id=6%3A2&t=OnXmGkdE52FFGZcE-1
+
 ## My Participation  
 - UI/UX **40%**
 - Front-end **20%**
@@ -30,12 +33,10 @@ Setelah berhasil menjalani pemilihan Ketua Osis di SMAN 5 Bandung, Belati Jagad 
 5. Got a web domain (himahumas.xyz) 
 6. Manage server hosting data files and database
 
-
-Untuk design menggunakan Figma dengan design tahap awal ada di:
-https://www.figma.com/file/YXNH2FMNOZHYpYalorRE3F/Project-Web-Pemilihan?type=design&node-id=6%3A2&t=OnXmGkdE52FFGZcE-1
-yang kemudian diubah-ubah dalam proses pembuatan front-end serta back-end
-
+## Tools
+1. Figma
+2. Xampp
+3. Visual Studio Code
 
 NOTES :
    So much more that can be improved on the backend part as I myself is still learning
-   Web hosting service used was : https://www.domainesia.com/ 
