@@ -20,8 +20,9 @@ Developer - Back End
 4. Experience how to manage server hosting 
 
 
-Untuk design Figma tahap awal ada di:
+Untuk design menggunakan Figma dengan design tahap awal ada di:
 https://www.figma.com/file/YXNH2FMNOZHYpYalorRE3F/Project-Web-Pemilihan?type=design&node-id=6%3A2&t=OnXmGkdE52FFGZcE-1
+yang kemudian diubah-ubah dalam proses pembuatan front-end serta back-end
 
 NOTES :
    File isn't and STYLE IS LOST ,also not organize because the original I'have lost since it was a long time ago
