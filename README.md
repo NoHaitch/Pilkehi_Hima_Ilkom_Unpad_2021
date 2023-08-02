@@ -2,7 +2,7 @@
 Website for Election of Students Association Chairman of Hima Ilkom Unpad
 Project was made in December 2021 but only was uploaded to github at 30-4-2023
 
-<h3> Latar Belakang </h3>
+<h3> Background </h3>
 Setelah berhasil menjalani pemilihan Ketua Osis di SMAN 5 Bandung, Belati Jagad dihubungi oleh kating kami yang saat itu sudah lulus dan masuk ke dalam Ilmu Komunikasi Unpad, kemudian Belati mengajak saya untuk berpartisipasi dalam project ini. 
 
 Dikerjakan oleh 2 Orang :
