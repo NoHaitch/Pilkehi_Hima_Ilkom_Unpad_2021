@@ -1,12 +1,18 @@
 # Pilkehi_Hima_Ilkom_Unpad_2021  
 Website for **Election of Students Association Chairman** of **Hima Ilkom Unpad**  
 
-Project was finished in December 2021  
+Made by:
+1. Belati Jagad Bintang Syuhada ( [belatijagad](https://github.com/belatijagad) )
+2. Raden Francisco Trianto Bratadiningrat ( [NoHaitch](https://github.com/NoHaitch) )
 
-> ### My Participation  
+Project was finished in **December 2021**  
 
+## My Participation  
+- UI/UX **40%**
+- Front-end **20%**
+- Back-end **100%**
 
-> ### Background
+## Background
 Setelah berhasil menjalani pemilihan Ketua Osis di SMAN 5 Bandung, Belati Jagad dihubungi oleh kating kami yang saat itu sudah lulus dan masuk ke dalam Ilmu Komunikasi Unpad, kemudian Belati mengajak saya untuk berpartisipasi dalam project ini. alasan kami dihubungi adalah karena memerlukan jasa yang murah namun dapat dipercaya untuk membuat website untuk pemilihan ketua Hima Ilkom Unpad.
 
 Dikerjakan oleh 2 Orang :
