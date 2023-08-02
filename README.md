@@ -15,21 +15,20 @@ Project was finished in **December 2021**
 ## Background
 Setelah berhasil menjalani pemilihan Ketua Osis di SMAN 5 Bandung, Belati Jagad dihubungi oleh kating kami yang saat itu sudah lulus dan masuk ke dalam Ilmu Komunikasi Unpad, kemudian Belati mengajak saya untuk berpartisipasi dalam project ini. alasan kami dihubungi adalah karena memerlukan jasa yang murah namun dapat dipercaya untuk membuat website untuk pemilihan ketua Hima Ilkom Unpad.
 
-Dikerjakan oleh 2 Orang :
-1. Belati Jagad
-2. Raden Francisco T. B.
-
-My participation (Raden Francisco) :
-Design
+## Detailed Work
+### Detail - UI/UX & Front-End
 1. Brainstorm ideas 
 2. Made the UI/UX skeleton
-3. Give a lot of opinion to help design (because i used to have the designer role I have a natural feel of what's good what's not also suggestions)
+3. Many Revision and ideas for the Design 
+4. Made not planned pages such as: spesific error page, admin pages (shows users data and results for the client) 
 
-Developer - Back End
-1. Fully responsible of the backend part using php mysql(mysqli) 
-2. This time the backend was a bigger system than last experience
-3. Bought server hosting(domainesia) and domain himahumas.xyz 
-4. Experience how to manage server hosting 
+### Detail - Back End
+1. Fully responsible of the backend part using PHP & MYSQL (mysqli)
+2. Made the structure and skeleton of the system (including login and voting)
+3. Connect Back-end to the Front-end (html form and input)
+4. Bought server hosting ([domainesia](https://www.domainesia.com/))
+5. Got a web domain (himahumas.xyz) 
+6. Manage server hosting data files and database
 
 
 Untuk design menggunakan Figma dengan design tahap awal ada di:
@@ -37,8 +36,6 @@ https://www.figma.com/file/YXNH2FMNOZHYpYalorRE3F/Project-Web-Pemilihan?type=des
 yang kemudian diubah-ubah dalam proses pembuatan front-end serta back-end
 
 
-
 NOTES :
-   File isn't and STYLE IS LOST ,also not organize because the original I'have lost since it was a long time ago
    So much more that can be improved on the backend part as I myself is still learning
    Web hosting service used was : https://www.domainesia.com/ 
