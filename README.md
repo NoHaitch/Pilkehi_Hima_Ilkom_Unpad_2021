@@ -1,6 +1,6 @@
 # Pilkehi_Hima_Ilkom_Unpad_2021
-Website for Election of Students Association Chairman of **Hima Ilkom Unpad**
-Project was made in December 2021 but only was uploaded to github at 30-4-2023
+Website for **Election of Students Association Chairman** of **Hima Ilkom Unpad**
+Project was finished in December 2021
 
 <h3> Background </h3>
 Setelah berhasil menjalani pemilihan Ketua Osis di SMAN 5 Bandung, Belati Jagad dihubungi oleh kating kami yang saat itu sudah lulus dan masuk ke dalam Ilmu Komunikasi Unpad, kemudian Belati mengajak saya untuk berpartisipasi dalam project ini. alasan kami dihubungi adalah karena memerlukan jasa yang murah namun dapat dipercaya untuk membuat website untuk pemilihan ketua Hima Ilkom Unpad.
