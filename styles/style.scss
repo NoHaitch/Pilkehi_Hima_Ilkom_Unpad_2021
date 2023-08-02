@@ -1,0 +1,14 @@
+@use 'abstract/_abstact-dir';
+@use 'base/_base-dir';
+@use 'components/_components-dir';
+
+//Variables
+$primary : #92121c;
+$secondary : #ff8e3c;
+$success : #93bc39;
+$info : #0d0d0d;
+$warning : #2a2a2a;
+$danger : #ee3e54;
+$light : #fffffe;
+$dark : #fff2e2;
+@import '../bootstrap/scss/bootstrap.scss';

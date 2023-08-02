@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100vw;
+  height: auto;
+}
+
+.lain {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 30px;
+}
+.lain h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+.lain h1 span {
+  color: white;
+  margin: 5px;
+}
+.lain h1 #buka {
+  background-color: green;
+  border-radius: 5px;
+  padding: 5px;
+}
+.lain h1 #tutup {
+  background-color: red;
+  border-radius: 5px;
+  padding: 5px;
+}
+.lain form {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.lain h3 {
+  color: #727272;
+}
+.lain h3 span {
+  text-decoration: underline;
+  color: #383838;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.table {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+}
+.table .id, .table .nama, .table .username, .table .password, .table .email, .table .status, .table .keterangan {
+  padding: 8px;
+}
+.table .id, .table .username, .table .password, .table .status, .table .keterangan {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}/*# sourceMappingURL=tabeldata.css.map */

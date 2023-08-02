@@ -1,0 +1,67 @@
+@use '../abstract/_abstact-dir' as *;
+
+* {
+    user-select: none;
+}
+
+.foto-calon:hover {
+    cursor: pointer;
+}
+
+body {
+    margin : 0;
+    padding : 0;
+    background-color : $background !important;
+}
+
+.hero {
+    height : 95vh;
+
+    .svg-top {
+        top : 0;
+        left : -100;
+    }
+
+    .svg-bot {
+        bottom : 0;
+        right : -100;
+    }
+
+    .svg-desktop {
+        z-index : -400;
+    }
+}
+
+.calon {
+    height : 100vh;
+    background-color : $background-2;
+}
+
+.tatacara-item {
+    background-color : $background-2;
+    width : 100%;
+
+    img {
+        width : 100%;
+        height : auto;
+    }
+}
+
+footer {
+    a, p {
+        text-decoration : none;
+        opacity : 80%;
+    }
+}
+
+.svg-desktop {
+    .svg-top {
+        position : absolute;
+        top : 0;
+        left : 0;
+    }
+    .svg-bot {
+        bottom : 0;
+        right : 0;
+    }
+}

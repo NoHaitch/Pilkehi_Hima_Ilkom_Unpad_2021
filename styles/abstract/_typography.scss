@@ -1,0 +1,80 @@
+@use 'variables' as *;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Open+Sans:wght@400;500;600;700&display=swap');
+
+.h1 {
+    font-family : $primary-font !important;
+    font-size : 72px !important;
+    line-height: 96px !important;
+    font-weight : bold !important;
+}
+
+.h2 {
+    font-family : $primary-font !important;
+    font-size : 51px !important;
+    line-height : 72px !important;
+    font-weight : bold !important;
+    
+    
+}
+
+.h3 {
+    font-family : $primary-font !important;
+    font-size : 36px !important;
+    line-height : 51px !important;
+    font-weight : bold !important;
+    @media(max-width: 576px){
+        font-size : 25px !important;
+        line-height : 36px !important;
+        font-weight : bold !important;
+        text-align: center;
+    }
+}
+
+.h4 {
+    font-family : $primary-font !important;
+    font-size : 25px !important;
+    line-height : 36px !important;
+    font-weight : bold !important;
+}
+
+.h4-regular {
+    font-family : $primary-font !important;
+    font-size : 25px !important;
+    line-height : 36px !important;
+}
+
+.h5 {
+    font-family : $secondary-font !important;
+    font-size : 18px !important;
+    line-height : 25px !important;
+    font-weight : 600;
+}
+
+.h6 {
+    font-family : $secondary-font !important;
+    font-size : 14px !important;
+    line-height : 18px !important;
+    letter-spacing: 4% !important;
+    font-weight : bold !important;
+}
+
+.p {
+    font-family : $secondary-font !important;
+    font-size : 18px !important;
+    line-height : 25px !important;
+}
+
+.p-small {
+    font-family : $secondary-font !important;
+    font-size : 14px !important;
+    line-height : 18px !important;
+}
+
+.p-caption {
+    font-family : $secondary-font !important;
+    font-size : 14px;
+    line-height : 18px;
+    font-style : italic;
+    color : rgba(42, 42, 42, .7);
+}

@@ -1,0 +1,68 @@
+*{
+    margin:0;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+    height: auto;
+}
+
+.lain{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 30px;
+    h1{
+        font-size: 32px;
+        margin-bottom: 10px;
+        span{
+            color: white;
+            margin: 5px;
+        }
+        #buka{
+            background-color: green;
+            border-radius: 5px;
+            padding: 5px;
+        }
+        #tutup{
+            background-color: red;
+            border-radius: 5px;
+            padding: 5px;
+        }
+    }
+    form{
+        margin-top:10px;
+        margin-bottom: 5px;
+    }
+    h3{
+        color:rgb(114, 114, 114);
+        span{
+            text-decoration: underline;
+            color: rgb(56, 56, 56);
+        }
+    }
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.table{
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    .id,.nama,.username,.password,.email,.status,.keterangan{
+        padding:8px;    
+    }
+    .id,.username,.password,.status,.keterangan{
+        text-align: center;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}

@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Halaman Voting</title>
+    <link rel="stylesheet" href="../styles/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/bootstrap-icons.css">
+
+</head>
+<body class="bg-light">
+    <!-- Navigation bar -->
+    <nav class="navbar navbar-expand-lg bg-primary sticky-top">
+        <div class="container">
+            <!-- Brand Website -->
+            <a href="../index.html" class="navbar-brand d-flex flex-row align-items-center" aria-label="Logo Website">
+                <img class="me-4" src="../src/logo/Logo Hima.png" alt="" srcset="">
+                <h6 class="h5 text-light">Hima Humas Unpad</h6>
+            </a>
+
+            <!-- Tombol Toggle Saat Mobile Resolution -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="bi bi-list text-light"></i>
+            </button>
+
+            <!-- Navlink -->
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav col-lg-12 d-flex flex-lg-row justify-content-lg-end">
+                    <li class="nav-item">
+                        <button type="button" class="nav-link text-light h6 me-3" data-bs-toggle="modal" data-bs-target="#tataCara" style="background:none;border:none;">TATA CARA</button>
+                    </li>
+                    <li class="nav-item">
+                        <a href="html/login.html" class="btn btn-outline-light h6 disabled">LOGOUT</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    
+
+    <!-- Modal Tata Cara -->
+    <div class="modal fade" id="tataCara" tabindex="-1" role="dialog" aria-labelledby="tataCaraLabel" aria-hidden="true">
+        <div class="modal-dialog modal-xl" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="tataCaraLabel">Tata Cara Pemilu</h5>
+                    <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close" style="background:none;border:none;">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <main id="tataCara">
+                        <div class="container d-flex flex-column align-items-center justify-content-center py-5">
+                            <div class="d-flex flex-column col-lg-12">
+                                <div class="d-flex flex-column flex-lg-row align-items-center justify-content-center">
+                                    <div class="col-lg-4 mx-5 my-5">
+                                        <div class="card" style="width:100%">
+                                            <div class="card-header">
+                                                <h5 class="card-title text-center">Langkah Pertama</h5>
+                                            </div>
+                                            <div class="card-body">
+                                                <img src="../src/tatacara/langkah-1.png" alt="" style="width:100%;height:auto;">
+                                                <p class="card-text mt-3">
+                                                    Kenali calon-calon ketua himpunan dengan menekan tulisan "Lihat Profil" di bawah nama calon.
+                                                </p>
+                                            </div>
+                                        </div>
+                                        
+                                    </div>
+                                    <div class="col-lg-4 mx-5 my-5">
+                                        <div class="card" style="width:100%">
+                                            <div class="card-header">
+                                                <h5 class="card-title text-center">Langkah Kedua</h5>
+                                            </div>
+                                            <div class="card-body">
+                                                <img src="../src/tatacara/langkah-1.png" alt="" style="width:100%;height:auto;">
+                                                <p class="card-text mt-3">
+                                                    Tekan tombol "login" di bagian kanan atas layar untuk menuju ke halaman login.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-column flex-lg-row align-items-center justify-content-center">
+                                    <div class="col-lg-4 mx-5 my-5">
+                                        <div class="card" style="width:100%">
+                                            <div class="card-header">
+                                                <h5 class="card-title text-center">Langkah Ketiga</h5>
+                                            </div>
+                                            <div class="card-body">
+                                                <img src="../src/tatacara/langkah-2-rev.png" alt="" style="width:100%;height:auto;">
+                                                <p class="card-text mt-3">
+                                                    Masukkan data yang telah diberikan melalui email ke dalam kolom NPM dan 
+                                                    password, pastikan data yang dimasukkan sudah benar, lalu tekan login.
+                                                </p>
+                                            </div>
+                                        </div>
+                                        
+                                    </div>
+                                    <div class="col-lg-4 mx-5 my-5">
+                                        <div class="card" style="width:100%">
+                                            <div class="card-header">
+                                                <h5 class="card-title text-center">Langkah Keempat</h5>
+                                            </div>
+                                            <div class="card-body">
+                                                <img src="../src/tatacara/langkah-3.png" alt="" style="width:100%;height:auto;">
+                                                <p class="card-text mt-3">
+                                                    Jika sudah yakin, tekan foto calon yang Anda pilih (akan ditandai dengan 
+                                                    garis berwarna hijau), lalu tekan tombol kirim suara.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-column flex-lg-row align-items-center justify-content-center">
+                                    <div class="col-lg-4 mx-5 my-5">
+                                        <div class="card" style="width:100%">
+                                            <div class="card-header">
+                                                <h5 class="card-title text-center">Jika Berhasil,</h5>
+                                            </div>
+                                            <div class="card-body">
+                                                <img src="../src/tatacara/langkah-4-rev.png" alt="" style="width:100%;height:auto;">
+                                                <p class="card-text mt-3">
+                                                    Jika proses berjalan dengan lancar akan muncul halaman seperti ini.
+                                                </p>
+                                            </div>
+                                        </div>
+                                        
+                                    </div>
+                                    <div class="col-lg-4 mx-5 my-5">
+                                        <div class="card" style="width:100%">
+                                            <div class="card-header">
+                                                <h5 class="card-title text-center">Jika Gagal,</h5>
+                                            </div>
+                                            <div class="card-body">
+                                                
+                                                <img src="../src/tatacara/langkah-5-rev.png" alt="" style="width:100%;height:auto;">
+                                                <p class="card-text mt-3">
+                                                    Jika gagal akan muncul halaman seperti ini. Segera hubungi panitia agar masalah diperbaiki.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </main>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Calon Section -->
+    <main class="min-vh-100 bg-light py-5" id="calonKetua">
+        <div class="container d-flex flex-column align-items-center justify-content-center">
+            <div class="d-flex flex-column flex-lg-row justify-content-center">
+                <div class="my-5 col-lg-3 mx-5 d-flex flex-column align-items-center border-bottom border-secondary pb-2 border-3">
+                    <img src="../src/calon/Calon 1/calon-1.png" alt="" class="logo my-2">
+                    <h5 class="h5 my-2"><span class="text-primary h6">01</span> Alifia Sabila Putri</h5>
+                    <button type="button" class="h6 text-primary my-2" data-bs-toggle="modal" data-bs-target="#calonPertama" style="background:none;border:none;">Lihat Profil</button>
+                </div>
+                <div class="my-5 col-lg-3 mx-5 d-flex flex-column align-items-center border-bottom border-secondary pb-2 border-3">
+                    <img src="../src/calon/Calon 2/calon-2-rev.png" alt="" class="logo my-2">
+                    <h5 class="h5 my-2"><span class="text-primary h6">02</span> Christopher Chow</h5>
+                    <button type="button" class="h6 text-primary my-2" data-bs-toggle="modal" data-bs-target="#calonKedua" style="background:none;border:none;">Lihat Profil</button>                
+                </div>
+                <div class="my-5 col-lg-3 mx-5 d-flex flex-column align-items-center border-bottom border-secondary pb-2 border-3">
+                    <img src="../src/calon/Calon 3/calon-3-rev.png" alt="" class="logo my-2">
+                    <h5 class="h5 my-2"><span class="text-primary h6">03</span> Adissa Irawaty</h5>
+                    <button type="button" class="h6 text-primary my-2" data-bs-toggle="modal" data-bs-target="#calonKetiga" style="background:none;border:none;">Lihat Profil</button>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-secondary text-light py-2 col-lg-2 col-6">Kirim Suara</button>
+        </div>
+    </main>
+
+    <!-- Modal Calon Pertama -->
+    <div class="modal fade" id="calonPertama" tabindex="-1" role="dialog" aria-labelledby="calonPertamaLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="calonPertama"><span class="text-primary h6">01</span> Alifia Sabila Putri</h5>
+                    <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close" style="background:none;border:none;">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <video width="100%" height="auto" controls>
+                        <source src="../src/calon/Calon 1/calon-1.mp4" type="video/mp4">
+                    </video>
+                    <h4 class="h4 text-primary">Visi</h4>
+                    <p class="p-small">
+                        Menjadikan Hima Humas sebagai wadah pengembangan diri dan kontribusi yang adaptif, 
+                        progresif, dan berkomitmen untuk memberi manfaat bagi publik internal dan eksternalnya
+                    </p>
+                    <h4 class="h4 text-primary">Misi</h4>
+                    <ol class="p-small">
+                        <li class="mb-2">Membangun lingkungan kerja yang cekatan dalam menghadapi segala situasi</li>
+                        <li class="mb-2">Menampung aspirasi dan inovasi anggota Hima Humas dalam pelaksanaan program kerja Himpunan yang sesuai dengan kebutuhannya</li>
+                        <li class="mb-2">Menciptakan sistem komunikasi organisasi yang terstruktur dan terbuka</li>
+                        <li class="mb-2">Mendorong partisipasi anggota Hima Humas dengan program kerja yang mendukung minat dan bakat serta pengembangan kompetensi dalam hal akademik, non akademik, dan keprofesian</li>
+                        <li class="mb-2">Mengembangkan kemitraan yang bermanfaat dengan publik eksternal</li>
+                        <li class="mb-2">Menjalin hubungan yang sistematis dan sinergis dengan publik internal dan eksternal Hima Humas</li>
+                    </ol>
+                    <h4 class="h4 text-primary">Budaya Kerja : GAVE</h4>
+                    <p class="p">
+                        <span class="h5 text-secondary">G</span>rowth
+                    </p>
+                    <p class="p">
+                        <span class="h5 text-secondary">A</span>gility
+                    </p>
+                    <p class="p">
+                        <span class="h5 text-secondary">V</span>isionary
+                    </p>
+                    <p class="p">
+                        <span class="h5 text-secondary">E</span>mpathy
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Modal Calon Kedua -->
+    <div class="modal fade" id="calonKedua" tabindex="-1" role="dialog" aria-labelledby="calonKeduaLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="calonPertama"><span class="text-primary h6">02</span> Christopher Chow</h5>
+                    <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close" style="background:none;border:none;">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <video width="100%" height="auto" controls>
+                        <source src="../src/calon/Calon 2/calon-2.mp4" type="video/mp4">
+                    </video>
+                    <h4 class="h4 text-primary">Visi</h4>
+                    <p class="p-small">
+                        Hima Humas sebagai wadah pengembangan potensial diri anggota dengan menjunjung tinggi profesionalitas 
+                        dan kekeluargaan sehingga dapat menghasilkan banyak individu yang bermanfaat bagi internal dan eksternal
+                    </p>
+                    <h4 class="h4 text-primary">Misi</h4>
+                    <ol class="p-small">
+                        <li class="mb-2">Mempererat hubungan antara anggota dan pengurus untuk menjaga keharmonisan dan sinergi di Hima Humas</li>
+                        <li class="mb-2">Memaksimalkan setiap program kerja yang akan atau telah ada untuk meningkatkan potensi anggota Hima Humas</li>
+                        <li class="mb-2">Berkolaborasi dan membangun relasi dengan pihak eksternal Hima Humas dalam mewujudkan individu yang bermanfaat</li>
+                    </ol>
+                    <h4 class="h4 text-primary">Budaya Kerja : STAR</h4>
+                    <h5 class="h5 text-secondary">Service</h5>
+                    <p class="p-small">
+                        Hima Humas sebagai organisasi mahasiswa menyediakan berbagai program kerja dalam rangka memberikan 
+                        pelayanan bagi anggota Hima Humas
+                    </p>
+                    <h5 class="h5 text-secondary">Trust</h5>
+                    <p class="p-small">
+                        Dalam membangun suatu hubungan yang kuat antara anggota dan pengurus Hima Humas, maka diperlukan 
+                        rasa percaya antara individu dalam Hima Humas
+                    </p>
+                    <h5 class="h5 text-secondary">Autonomy</h5>
+                    <p class="p-small">
+                        Dengan rasa percaya yang diberikan, pengurus Hima Humas juga diberikan kebebasan dalam berekspresi 
+                        dan berinovasi dalam suatu rancangan atau program kerja yang akan berjalan
+                    </p>
+                    <h5 class="h5 text-secondary">Relaxed</h5>
+                    <p class="p-small">
+                        Pengurus Hima Humas akan memiliki kebebasan dan kenyamanan dalam melakukan hal produktif di Hima Humas
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Modal Calon Ketiga -->
+    <div class="modal fade" id="calonKetiga" tabindex="-1" role="dialog" aria-labelledby="calonKetigaLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="calonPertama"><span class="text-primary h6">03</span> Adissa Irawaty</h5>
+                    <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close" style="background:none;border:none;">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <video width="100%" height="auto" controls>
+                        <source src="../src/calon/Calon 3/calon-3.mp4" type="video/mp4">
+                    </video>
+                    <h4 class="h4 text-primary">Visi</h4>
+                    <p class="p-small">
+                        Mewujudkan Hima Humas sebagai ruang eksplorasi kreatif dan inovatif 
+                        bagi anggota Hima Humas dan menjalin komunikasi dengan internal dan eksternal Hima Humas
+                    </p>
+                    <h4 class="h4 text-primary">Misi</h4>
+                    <ol class="p-small">
+                        <li class="mb-2">Mendorong partisipasi aktif anggota Hima Humas pada setiap program kerja sesuai dengan potensi, minat, dan bakat</li>
+                        <li class="mb-2">Membangun internal organisasi Hima Humas menjadi tempat yang aman dan nyaman untuk berkembang bagi anggotanya</li>
+                        <li class="mb-2">Menjaga komunikasi dan koordinasi supaya menghasilkan dampak positif dengan eksternal Hima Humas</li>
+                    </ol>
+                    <h4 class="h4 text-primary">Budaya Kerja : SHARE</h4>
+                    <h5 class="h5 text-secondary">Sustain</h5>
+                    <p class="p-small">
+                        Hima Humas dapat mempertahankan kinerja ideal dan prestasi yang telah dimiliki
+                    </p>
+                    <h5 class="h5 text-secondary">Honest</h5>
+                    <p class="p-small">
+                        Hima Humas dapat menjalankan tugas dan fungsinya secara jujur
+                    </p>
+                    <h5 class="h5 text-secondary">Appreciate</h5>
+                    <p class="p-small">
+                        Hima Humas berusaha selalu mengapresiasi prestasi dan kinerja anggotanya
+                    </p>
+                    <h5 class="h5 text-secondary">Respect</h5>
+                    <p class="p-small">
+                        Setiap anggota Hima Humas menghargai hak dan kewajiban satu sama lain
+                    </p>
+                    <h5 class="h5 text-secondary">Empower</h5>
+                    <p class="p-small">
+                        Hima Humas dapat memberikan ruang bagi anggotanya untuk mengembangkan potensi terbaiknya
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+// Font Type
+$primary-font : 'Montserrat', sans-serif;
+$secondary-font : 'Open sans', sans-serif;
+
+// Color
+$background : #FFF2e2;
+$background-2 : #FFFFFE;
+$headline : #0d0d0d;
+$paragraph : #2a2a2a;
+$primary : #92121C;
+$secondary : #FF8E3C;
+$success : #93BC39;
+$error : #EE3E54;
+
+.bg-color-bg {
+    background-color : $background;
+}
+
+.bg-color-bg-2 {
+    background-color : $background-2;
+}
+
+.bg-color-headline {
+    background-color : $headline;
+}
+
+.bg-color-paragraph {
+    background-color : $paragraph;
+}
+
+.bg-color-primary {
+    background-color : $primary;
+}
+
+.bg-color-secondary {
+    background-color : $secondary;
+}
+
+.bg-color-success {
+    background-color : $success;
+}
+
+.bg-color-error {
+    background-color : $error;
+}
+
+.color-bg {
+    color : $background;
+}
+
+.color-bg-2 {
+    color : $background-2;
+}
+
+.color-headline {
+    color : $headline;
+}
+
+.color-paragraph {
+    color : $paragraph;
+}
+
+.color-primary {
+    color : $primary;
+}
+
+.color-secondary {
+    color : $secondary;
+}
+
+.color-success {
+    color : $success;
+}
+
+.color-error {
+    color : $error;
+}
