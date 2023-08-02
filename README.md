@@ -1,5 +1,5 @@
 # Website for Students Association Chairman Election of Hima Ilkom Unpad
-Website Pemilihan Ketua Himpunan Ilmu Komunikasi Unpad 2021
+Website for Election of Students Association Chairman of Hima Ilkom Unpad
 
 Notes: Project ini dikerjakan December tahun 2021 tapi baru diupload ke github tanggal 30-4-2023
 
