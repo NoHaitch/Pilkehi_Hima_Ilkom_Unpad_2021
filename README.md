@@ -1,11 +1,14 @@
 # Pilkehi_Hima_Ilkom_Unpad_2021  
 Website for **Election of Students Association Chairman** of **Hima Ilkom Unpad**  
+Project was finished in **December 2021**  
 
-Made by:
+### Important Notice !
+Data from the database is of course not here  
+The re-use of the website might not work.  
+  
+## Made by:
 1. Belati Jagad Bintang Syuhada ( [belatijagad](https://github.com/belatijagad) )
 2. Raden Francisco Trianto Bratadiningrat ( [NoHaitch](https://github.com/NoHaitch) )
-
-Project was finished in **December 2021**  
 
 ## Final design  
 https://www.figma.com/file/YXNH2FMNOZHYpYalorRE3F/Project-Web-Pemilihan?type=design&node-id=6%3A2&t=OnXmGkdE52FFGZcE-1
@@ -16,7 +19,7 @@ https://www.figma.com/file/YXNH2FMNOZHYpYalorRE3F/Project-Web-Pemilihan?type=des
 - Back-end **100%**
 
 ## Background
-Setelah berhasil menjalani pemilihan Ketua Osis di SMAN 5 Bandung, Belati Jagad dihubungi oleh kating kami yang saat itu sudah lulus dan masuk ke dalam Ilmu Komunikasi Unpad, kemudian Belati mengajak saya untuk berpartisipasi dalam project ini. alasan kami dihubungi adalah karena memerlukan jasa yang murah namun dapat dipercaya untuk membuat website untuk pemilihan ketua Hima Ilkom Unpad.
+After FCC(Five Cyber Community) successfully undergoing the election for Osis Chair at SMAN 5 Bandung, Belati Jagad, who was the head of FCC, was contacted by our senior, who at that time had already graduated and entered Unpad Communication Studies. Belati then invited me to participate in this project as both of us play a major role in the success at FCC. The main reason we were contacted was because they needed a cheap yet expirienced people to create a website for the election of the chairman of Hima Ikom Unpad and thus making us fit very well for the criteria.
 
 ## Detailed Work
 ### Detail - UI/UX & Front-End
