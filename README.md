@@ -4,7 +4,7 @@ Project was finished in **December 2021**
 
 ### Important Notice !
 Data from the database is of course not here  
-PURE VANILLA WEBSITE
+PURE VANILLA WEBSITE incase you didn't reallize
   
 ## Made by:
 1. Belati Jagad Bintang Syuhada ( [belatijagad](https://github.com/belatijagad) )
